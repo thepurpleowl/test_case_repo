@@ -9,8 +9,3 @@
  * @tags backtick
  *       string conversion
  */
-
-import python
-
-from Repr r
-select r
