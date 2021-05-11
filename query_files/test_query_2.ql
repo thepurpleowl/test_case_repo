@@ -1,6 +1,6 @@
 /**
  * @id py/examples/backticks
- * @name Unnecessary 'else' clause in loop
+ * @name Unnecessary 'else' clause and also '\n' in loop
  * @description Finds `String conversions` expressions (expressions enclosed in backticks), which are removed in Python 3
  * @tags backtick
  *       string conversion
